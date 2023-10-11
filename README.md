@@ -1,1 +1,1 @@
-# Soretd-array-searchin
+# Soretd-array-searching
