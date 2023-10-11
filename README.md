@@ -1,1 +1,1 @@
-# Soretd-array-searching
+# Sorted-array-searching
